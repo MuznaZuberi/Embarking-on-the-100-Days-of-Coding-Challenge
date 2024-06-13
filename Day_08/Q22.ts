@@ -8,4 +8,4 @@
  console.log("\n");
 
  console.log("To correct an error");
- console.log(colours[4]); //Accessing a valid index to correct an error
+ console.log(colours[4]); //Accessing a valid index to correct an errors
